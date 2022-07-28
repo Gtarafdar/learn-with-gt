@@ -1,3 +1,13 @@
 .carousel-image img {
   filter: grayscale(15%) brightness(40%);
 }
+
+@media (max-width: 1199.98px) {
+  .carousel-caption h1 {
+    font-size: small;
+  }
+
+  .carousel-caption p {
+    font-size: 7px;
+  }
+}
