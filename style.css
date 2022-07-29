@@ -15,3 +15,7 @@
 .card-bg {
   background-color: #e7f6fe;
 }
+
+.dark-carousel-control-next-icon {
+  color: black;
+}
